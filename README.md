@@ -8,8 +8,15 @@ Podemos usar su infraestructura y empezar una videollamada sin más que entrar e
 
 ![](./images/VideoLlamada.png)
 
+A partir de este nombre se generará una URL para que se conecten los participantes. Desde los dispositivos móviles será este nombre el que usen para conectarse
 
-(También podemos instalar [todos los paquetes del sevidor](https://jitsi.org/downloads/) en nuestra propia infraestructura)
+Nombre de la sesión
+![](./images/nombreSesion.png)
+
+URL 
+![](./images/urlconexion.png)
+
+Estos datos serán los que compartamos con los participantes.
 
 Al conectar veremos la pantalla con los siguientes controles
 
@@ -54,6 +61,12 @@ Abajo a la izquierda hay 3 iconos con los que usuario puede:
 * Abrir el chat. Al pulsar el botón de **Chat** se abrirá una ventana donde podemos conversar o compartir con los otros participantes
 
 ![](./images/Chat.png)
+
+## Creando nuestra infraestructura
+
+Usando la URL de meet.jit.si estamos utilizando la infraestructura de jitsi.org 
+
+También podemos instalar [todos los paquetes del sevidor](https://jitsi.org/downloads/) en nuestra propia infraestructura y así mejorar el rendimiento
 
 ## TODO
 
