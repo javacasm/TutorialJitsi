@@ -28,9 +28,9 @@ Si pulsamos en **...** tendremos acceso a muchas opciones
 
 Como:
 * Configurar la calidad de la transmisión de vídeo, con lo que podemos mejorar el rendimiento en redes con menor ancho de banda
-* Iniciar la grabación, que se guarda en dropbox (por lo que hace falta tener espacio y haberlo configurado)
-* Iniciar transmisión en vivo que se hará a través de youtube y que también podemos usar para grabar
-* Compartir un vídeo de Youtube, que sustituirá al vídeo de la cámara
+* Iniciar la grabación, que se guarda en dropbox (por lo que hace falta tener espacio y haberlo configurado con nuestra cuenta)
+* Iniciar transmisión en vivo que se hará a través de youtube y que también podemos usar para grabar. Para ello necesitamos hacer iniciado una  transmisión en vivo en Youtube, configurado los codificadores. (Para poder hacer una transmisión en vivo la cuenta tiene que estar autorizada y al menos tener 1000 suscriptores)
+* Compartir un vídeo de Youtube, que sustituirá a la transmisión del micro y de la cámara
 * Silenciar a todo el mundo
 * Ver a pantalla completa
 * Configurar en **Ajustes**
